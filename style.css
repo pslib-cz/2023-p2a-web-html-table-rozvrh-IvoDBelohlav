@@ -1,0 +1,32 @@
+body {
+    margin-top: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 0.5px solid #ddd;
+    padding: 15px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+    text-transform: uppercase;
+}
+
+td {
+    position: relative;
+}
+
+td.gradient {
+    background: linear-gradient(to bottom, #4ed3ff, #0df0f8);
+    color: white;
+}
+
+
+
+
